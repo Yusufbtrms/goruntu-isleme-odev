@@ -5,8 +5,6 @@
 resize
 
 # Program çıktıları
-images_resized/
-resized/
 
 # Editör dosyaları
 .vscode/
