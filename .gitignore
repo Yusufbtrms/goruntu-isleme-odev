@@ -1,0 +1,13 @@
+# Derlenmiş dosyalar
+*.exe
+*.o
+*.obj
+resize
+
+# Program çıktıları
+images_resized/
+resized/
+
+# Editör dosyaları
+.vscode/
+.vs/
